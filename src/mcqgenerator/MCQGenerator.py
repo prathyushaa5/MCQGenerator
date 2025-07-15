@@ -55,5 +55,5 @@ generate_evaluate_chain = SequentialChain(
     output_variables=["quiz", "review"],
     verbose=True)
 
-
-print("MCQ Generator is ready to use")
+if __name__ == "__main__":
+    print("MCQ Generator is ready to use")

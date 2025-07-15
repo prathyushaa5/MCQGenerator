@@ -1,0 +1,7 @@
+env
+mcqgen.egg-info
+logs
+history
+.env
+.history/
+
